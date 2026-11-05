@@ -1,6 +1,6 @@
 # RestoUniversitaire
 # Exécution
-![Regarter la vidéo du mon project](Project_RestauUniv.mp4)
+![Cliquez sur l'image ci-dessous pour regarder la vidéo de démonstration du mon project](https://drive.google.com/file/d/1G5C6uj_aWp9mySojFYihr335jB2RJaC6/view?usp=sharing)
 ## Description
 Plateforme intelligente de gestion des repas universitaires.
 
