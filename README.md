@@ -1,6 +1,9 @@
 # RestoUniversitaire
-# Exécution
-![Cliquez sur l'image ci-dessous pour regarder la vidéo de démonstration du mon project](preview.png)(https://drive.google.com/file/d/1G5C6uj_aWp9mySojFYihr335jB2RJaC6/view?usp=sharing)
+## Exécution
+Démonstration du projet
+
+Cliquez sur l'image ci-dessous pour regarder la vidéo de démonstration de mon project
+[![Cliquez sur l'image ci-dessous pour regarder la vidéo de démonstration du mon project](preview.png)](https://drive.google.com/file/d/1G5C6uj_aWp9mySojFYihr335jB2RJaC6/view?usp=sharing)
 ## Description
 Plateforme intelligente de gestion des repas universitaires.
 
